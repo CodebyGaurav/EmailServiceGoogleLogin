@@ -1,0 +1,15 @@
+spring:
+   security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: 72352529848-l353b6b7r8fprun2skfr7sngrf485osk.apps.googleusercontent.com
+            clientSecret: l_31496cXjBqQmuoOAzmSAXM
+
+gmail:
+    password: Gaurav@2016
+    username: codebygaurav@gmail.com
+    
+server:
+   port: 9999
